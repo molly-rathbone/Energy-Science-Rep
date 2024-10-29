@@ -28,4 +28,3 @@ pv_total = (pv_side * 2)
 print("pv total is", pv_total)
 
 #calculating total power output in kWp
-pv_power_total = (pv_total * pv_power)/1000
